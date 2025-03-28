@@ -6,12 +6,33 @@
 <!-- release_rollup -->
 
 <!-- latest_stable_release -->
+## [v2.12.2](https://github.com/chef/kitchen-vcenter/tree/v2.12.2) (2025-02-26)
+
+#### Merged Pull Requests
+- updating to newer images for tests [#181](https://github.com/chef/kitchen-vcenter/pull/181) ([sean-simmons-progress](https://github.com/sean-simmons-progress))
+- Fix scsinumber [#179](https://github.com/chef/kitchen-vcenter/pull/179) ([jarvin521](https://github.com/jarvin521))
+<!-- latest_stable_release -->
+
+## [v2.12.0](https://github.com/chef/kitchen-vcenter/tree/v2.12.0) (2023-01-09)
+
+#### Merged Pull Requests
+- Use rbvmomi2 gem [#174](https://github.com/chef/kitchen-vcenter/pull/174) ([ashiqueps](https://github.com/ashiqueps))
+
+## [v2.11.13](https://github.com/chef/kitchen-vcenter/tree/v2.11.13) (2022-06-01)
+
+#### Merged Pull Requests
+- [INFCT-53] Support for managing multiple networks [#172](https://github.com/chef/kitchen-vcenter/pull/172) ([ashiqueps](https://github.com/ashiqueps))
+
+## [v2.11.12](https://github.com/chef/kitchen-vcenter/tree/v2.11.12) (2022-03-17)
+
+#### Merged Pull Requests
+- Dummy PR to test the gem upload to Artifactory [#171](https://github.com/chef/kitchen-vcenter/pull/171) ([ashiqueps](https://github.com/ashiqueps))
+
 ## [v2.11.11](https://github.com/chef/kitchen-vcenter/tree/v2.11.11) (2022-03-11)
 
 #### Merged Pull Requests
 - Bundle win32-security for windows platforms dependency [#169](https://github.com/chef/kitchen-vcenter/pull/169) ([ashiqueps](https://github.com/ashiqueps))
 - Add vm name to initial clone log [#170](https://github.com/chef/kitchen-vcenter/pull/170) ([jasonwbarnett](https://github.com/jasonwbarnett))
-<!-- latest_stable_release -->
 
 ## [v2.11.9](https://github.com/chef/kitchen-vcenter/tree/v2.11.9) (2022-03-03)
 
